@@ -1,0 +1,1 @@
+export { MongoCRUD } from './mongoCRUD';
